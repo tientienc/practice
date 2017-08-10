@@ -1,0 +1,10 @@
+#navbar {
+  background-color: gray;
+  width: auto;
+  padding: 25px;
+  margin: 0, 0, 0, 0;
+  list-style: none;
+}
+
+#navbar li {
+	float: right; }
